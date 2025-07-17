@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-boot-app2
+  description: Classic reference app demonstrating Spring Boot, JPA, and Thymeleaf
+  tags:
+    - spring-boot
+    - jpa
+    - mysql
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: EMC-Backstage/spring-boot-app2
+spec:
+  type: framework
+  lifecycle: production
+  owner: EMC-Backstage
+  system: technology
