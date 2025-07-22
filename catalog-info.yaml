@@ -13,5 +13,5 @@ metadata:
 spec:
   type: framework
   lifecycle: production
-  owner: EMC-Backstage
+  owner: backend-team
   system: technology
