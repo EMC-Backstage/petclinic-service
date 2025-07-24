@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind:Component
+kind: Component
 metadata:
   name: petclinic-service
   description: Classic reference app demonstrating Spring Boot, JPA, and Thymeleaf
@@ -14,4 +14,4 @@ spec:
   type: service
   lifecycle: production
   system: web-platform
-  owner: backend-team
+  # owner: backend-team
