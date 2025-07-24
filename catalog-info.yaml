@@ -13,5 +13,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  # owner: backend-team
   system: web-platform
+  # owner: backend-team
