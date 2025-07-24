@@ -10,8 +10,8 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: EMC-Backstage/spring-boot-app2
-# spec:
-#   type: service
-#   lifecycle: production
-#   # owner: backend-team
-#   system: web-platform
+spec:
+  type: service
+  lifecycle: production
+  # owner: backend-team
+  system: web-platform
